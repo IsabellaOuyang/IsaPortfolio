@@ -103,7 +103,7 @@ hr.small {
 .sidebar-nav li a {
     display: block;
     text-decoration: none;
-    color: rgb(200,200,200);
+    color: #f2e088;
 }
 
 .sidebar-nav li a:hover {
